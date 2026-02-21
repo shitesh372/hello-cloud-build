@@ -141,4 +141,4 @@ This is the recommended approach for continuous integration and deployment. Clou
 This setup provides a solid foundation for a CI/CD project on GCP that you can use for your demonstration.
 This code run through commit at 10:58.
 
-Sample code to kick build
+This change is done to trigger a build in gcp cloud build - 21 Feb 2026, 10 53 AM - Bala Ragala
